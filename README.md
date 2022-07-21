@@ -9,4 +9,4 @@
 * Loan Prediction KNN :- KNN algorithm applied on madfhantr.csv. Accuracy - 76 %
 * Loan Prediction SVM :- Support vector machines algorithm applied on madfhantr.csv. Accuracy - 84 %
 * Loan Prediction Decision trees :- Using decision trees on madfhantr.csv to get results. Accuracy - 68 %
-* Loan Prediction Random Forest :- Random Forest algorithm used on madfhantr.csv to get results. Accuracy - 84 %
+* Loan Prediction Random Forest :- Random Forest algorithm used on madfhantr.csv to obtain results. Accuracy - 84 %
